@@ -1,2 +1,7 @@
 /node_modules
 /requests
+
+mongo.js
+passwords.js
+
+.env
